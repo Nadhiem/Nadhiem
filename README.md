@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nadhiem
-- 👀 I’m interested in Front end Development and web3
-- 🌱 I’m currently learning blockchain development and dapp
+- 👀 I’m interested in Front end Development and web3, python ,devops
+- 🌱 I’m currently learning blockchain development and dapp.
 - 💞️ 
 - 📫 How to reach me ...https://www.linkedin.com/in/nadhiem-latief-7a0200180
 
